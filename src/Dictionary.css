@@ -1,4 +1,29 @@
 h1, h2, h3 {
-  color:  #C4DDFF;
+  color:  #94bdf6;
+}
+label {
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
 }
 
+.Dictionary section { 
+  color: #fff;
+  border-radius: 4px;
+  background: #C4DDFF;
+  padding: 15px;
+  margin: 0 5px 20px 5px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.Dictionary input {
+border: 1px solid #ddd;
+border-radius: 5px;
+color: #444;
+}
+
+.Dictionary .hint{
+  font-size: 16px;
+  text-align: center;
+
+}

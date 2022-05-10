@@ -6,8 +6,8 @@ function App() {
   return (
     <div className="App m-2">
       <div className="container shadow">
-      <header className="App-header m-4">
-        <h1>Dictionary App</h1>
+      <header className="App-header m-2 mb-3 shadow p-3 rounded">
+        <h1> 📘 Dictionary App 📚</h1>
         
       </header>
       <Dictionary />

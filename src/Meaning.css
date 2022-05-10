@@ -1,8 +1,11 @@
 .Meaning {
-  background: #ffff;
-  border: 1px solid rgb(0, 0, 0, 0.5);
+  /* background:#C4DDFF; */
+  background: rgb(196, 221, 255, 0.5);
+  background-blend-mode: lighten;
   border-radius: 5px;
-  margin: 5px;
-  padding: 5px;
-
+  /* margin: 5px; */
+  /* padding: 5px; */
+  color:  #fff;
+  font-weight: 500;
+  line-height: 1.5;
 }

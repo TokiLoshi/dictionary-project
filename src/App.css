@@ -6,15 +6,13 @@ body {
 
 .App-footer {
 text-align: center;
-margin-top: 30px 0;
+margin-top: 40px;
 color:darkslateblue;
 }
 .App-footer a {
- 
   color:darkslateblue;
 }
 .container {
-  border: 1px solid #E8F9FD;
   background-color: #ffff;
  border-radius: 5px;
   padding: 5px;
