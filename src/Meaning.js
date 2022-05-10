@@ -10,7 +10,7 @@ return (
     <h3>{props.meaning.partOfSpeech}</h3> 
 
 {props.meaning.definitions.map(function (definition, index) {
-  if (index > 0) {
+
   return (
     <div key={index}>
 <p>
@@ -22,10 +22,7 @@ return (
 <Synonyms synonyms={props.meaning.synonyms}/>
 </div>
   );
-}
-  else { 
-    return null
-  }
+
 })}
 </div>
 );
