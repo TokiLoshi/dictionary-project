@@ -1,0 +1,8 @@
+.fa-circle-play {
+font-size: 50px;
+color: gray;
+justify-content: center;
+}
+.fa-circle-play:hover {
+  cursor: pointer;
+}
