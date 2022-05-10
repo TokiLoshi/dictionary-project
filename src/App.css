@@ -1,6 +1,7 @@
 body {
   text-align: center;
   margin: 0 auto;
+  background: #C4DDFF;
 }
 
 .App-footer {
@@ -13,7 +14,8 @@ color:darkslateblue;
   color:darkslateblue;
 }
 .container {
-  border: 1px solid purple;
+  border: 1px solid #E8F9FD;
+  background-color: #ffff;
  border-radius: 5px;
   padding: 5px;
 }

@@ -4,7 +4,7 @@ import './Meaning.css';
 export default function Meaning(props) { 
 console.log(props.meaning);
 return (
-  <div className="Meaning">
+  <div className="Meaning shadow">
     <h4>{props.meaning.partOfSpeech}</h4> 
 {props.meaning.definitions.map(function(definition, index) {
   return (
