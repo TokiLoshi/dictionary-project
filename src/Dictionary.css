@@ -11,23 +11,20 @@ label {
 }
 
 .Dictionary section { 
-  background-color: #fff;
+  /* background-color: #fff; */
   font-weight: 500;
   border-radius: 4px;
-  color: #C4DDFF;
+  /* color: #C4DDFF; */
   padding: 15px;
   margin: 0 5px 20px 5px;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
   justify-content: center;
 }
 
-.Dictionary input .searchBar {
-border: 1px solid #ddd;
+input.SearchBar.p2 {
+border: 1px solid #94bdf6;
 border-radius: 5px;
 color: #444;
-}
-.Dictionary input .btn {
-  color: #fff;
 }
 
 .Dictionary .hint{
@@ -38,7 +35,8 @@ color: #444;
 }
 .btn {
   padding: 10px;
-  background-color: #94bdf6;
+  background-color:#94bdf6;
+  border: 1px solid #94bdf6;
   transition: all 150ms ease-in-out;
   color: #fff;
   margin: 5px;
