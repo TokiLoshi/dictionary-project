@@ -1,9 +1,11 @@
 .fa-circle-play {
 font-size: 40px;
 color: #fff;
+transition: all 150ms ease-in-out;
 }
 .fa-circle-play:hover {
   cursor: pointer;
+  color: rgba(252, 253, 255, 0.7);
 }
 
 .Phonetics { 

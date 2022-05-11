@@ -2,4 +2,15 @@
   font-size: 36px;
   line-height: 1.5;
   font-weight: bold;
+  text-align: center;
+}
+
+
+@media (max-width: 770px) {
+  .Results h2 {
+    font-size: 25px;
+    /* display: inline; */
+    hyphens:auto;
+    text-align: center;
+  }
 }

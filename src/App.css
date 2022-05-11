@@ -1,7 +1,10 @@
 body {
-  text-align: center;
+  /* text-align: center; */
   margin: 0 auto;
   background: #C4DDFF;
+}
+h1, h2, h3, h4 {
+  text-align: center;
 }
 
 .App-footer {

@@ -9,11 +9,13 @@ label {
 
 .Dictionary section { 
   color: #fff;
+  font-weight: 500;
   border-radius: 4px;
   background: #C4DDFF;
   padding: 15px;
   margin: 0 5px 20px 5px;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+  justify-content: center;
 }
 
 .Dictionary input {
@@ -21,6 +23,8 @@ border: 1px solid #ddd;
 border-radius: 5px;
 color: #444;
 }
+
+
 
 .Dictionary .hint{
   font-size: 16px;
