@@ -34,7 +34,7 @@ function handleKeywordChange(event) {
 }
 if (loaded) {
   return (
-    <section className="Dictionary">
+    <section className="Dictionary m-2">
       <section>
       <form onSubmit={handleSubmit} className="Dictionary text-center">
         <label className="d-block text-center mb-2">Search for definitions, synonyms and more...</label>

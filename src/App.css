@@ -2,6 +2,8 @@ body {
   /* text-align: center; */
   margin: 0 auto;
   background: #C4DDFF;
+  max-width: 600px;
+  hyphens:auto;
 }
 h1, h2, h3, h4 {
   text-align: center;
