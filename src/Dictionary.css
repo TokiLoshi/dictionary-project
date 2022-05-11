@@ -14,14 +14,14 @@ label {
   /* background-color: #fff; */
   font-weight: 500;
   border-radius: 4px;
-  /* color: #C4DDFF; */
+  color: #C4DDFF;
   padding: 15px;
   margin: 0 5px 20px 5px;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
   justify-content: center;
 }
 
-input.SearchBar.p2 {
+input .SearchBar {
 border: 1px solid #94bdf6;
 border-radius: 5px;
 color: #444;

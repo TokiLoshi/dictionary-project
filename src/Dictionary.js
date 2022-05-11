@@ -47,7 +47,7 @@ if (loaded) {
       <section>
       <form onSubmit={handleSubmit} className="Dictionary text-center">
         <label className="d-block text-center mb-2">Search for definitions, synonyms and more...</label>
-      <input type="search" className="searchBar p-2" placeholder="Search for a word..." autoFocus={true} onChange={handleKeywordChange} />
+      <input type="search" className="searchBar form-control p-2" placeholder="Search for a word..." autoFocus={true} onChange={handleKeywordChange} />
       <input type="submit" value="Search" className="Search btn btn-light m-3" />
       </form>
       <div className="hint">Suggested words: hello, world, friend</div>
