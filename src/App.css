@@ -10,10 +10,10 @@ h1, h2, h3, h4 {
 .App-footer {
 text-align: center;
 margin-top: 40px;
-color:darkslateblue;
+color: #94bdf6;
 }
 .App-footer a {
-  color:darkslateblue;
+  color: #94bdf6;
 }
 .container {
   background-color: #ffff;

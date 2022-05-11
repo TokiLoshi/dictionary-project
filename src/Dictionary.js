@@ -43,8 +43,9 @@ if (loaded) {
       </form>
       <div className="hint">Suggested words: hello, world, friend</div>
       </section>
-  
-<Results results={results}/>
+
+    <Results results={results}/>
+
 
     </section>
   )
