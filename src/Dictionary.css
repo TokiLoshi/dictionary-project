@@ -1,6 +1,9 @@
 h1, h2, h3 {
   color:  #94bdf6;
 }
+h1 {
+  font-size: 32px;
+}
 label {
   color: white;
   font-size: 20px;
