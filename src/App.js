@@ -10,7 +10,7 @@ function App() {
         <h1> 📘 Dictionary App 📚</h1>
         
       </header>
-      <Dictionary defaultKeyword="supercalifragilisticexpialidocious"/>
+      <Dictionary defaultKeyword="app"/>
     <footer className='shadow p-3 m-2 rounded'><p className='App-footer'><small><a href='https://github.com/TokiLoshi/dictionary-project' target='blank' rel='noopener noreferrer'>Open sourced</a>, coded by <a href='https://tiny-valkyrie-cad23c.netlify.app/' target='blank' rel='noopener noreferrer'>Bianca Silva</a></small></p></footer>
     </div>
     </div>
