@@ -11,15 +11,11 @@ export default function Dictionary(props) {
   let [photos, setPhotos] = useState(null);
 
 function handleResponse(response) {
-  console.log(response.data[0]);
-  console.log(response.data[0].meanings[0].definitions[0].definition);
   setResults(response.data[0]);
 }
 
 function handlePexelsResponse(response) {
-  console.log(response.data);
   setPhotos(response.data.photos);
-
 }
 
 function search() {
@@ -42,9 +38,9 @@ function load() {
 }
 
 function handleKeywordChange(event) {
-  setKeyword(event.target.value);
-  
+  setKeyword(event.target.value); 
 }
+
 if (loaded) {
   return (
     <section className="Dictionary m-2">

@@ -1,15 +1,10 @@
 
 .Meaning {
-  /* background:#C4DDFF; */
-  /* background: rgb(196, 221, 255, 0.5); */
   background-blend-mode: lighten;
   border-radius: 5px;
-  /* margin: 5px; */
-  /* padding: 5px; */
   color:  #94bdf6;
   line-height: 1.5;
   font-size: 18px;
-  /* font-weight: bold; */
 }
 .Meaning h3 {
   font-size: 30px;
