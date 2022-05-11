@@ -7,7 +7,6 @@
   /* margin: 5px; */
   /* padding: 5px; */
   color:  #94bdf6;
- 
   line-height: 1.5;
   font-size: 18px;
   /* font-weight: bold; */
@@ -17,4 +16,7 @@
   line-height: 1.5;
   font-weight: bold;
   text-align: center;
+}
+.Meaning p {
+  margin-left: 10px;
 }

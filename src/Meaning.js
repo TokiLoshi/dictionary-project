@@ -15,12 +15,13 @@ return (
     <div key={index}>
 {/* <p> */}
 <br />
-<strong>Definition:</strong>< br/> 
+<p><strong>Definition:</strong>< br/> 
 {definition.definition} 
 {/* </p> */}
 <Examples examples={definition.example} />
 {/* <br /> */}
 <Synonyms synonyms={props.meaning.synonyms}/>
+</p>
 </div>
   );
 
